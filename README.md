@@ -1,4 +1,4 @@
 # Ticket_Tool
 Simple Ticket tool written in vba-excel
 
-User can choose a Topic and then write a description for it and attach if necessary a file.
+One version of the ticket tool relies on a user form and the other version is by inputing data into the sheet.
